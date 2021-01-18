@@ -1,0 +1,7 @@
+<AisVmiCoeficientEditor Enable="True" />
+<ParkingManager Enable="False" />
+<DiscountManager Enable="True" />
+<CustomerDisplay Enable="False" Screen="1" />
+<CheckRefund Enable="True" />
+<CheckManager Enable="True" />
+<Invoices Enable="True" />
